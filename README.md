@@ -3,8 +3,6 @@
 日本でインフラエンジニアとして働いています。  
 現在は Linux、AWS、クラウドインフラ、運用改善、自動化を中心に学習・実践しています。
 
-将来的にはカナダで Cloud Architecture を学び、北米でエンジニアとして働くことを目標にしています。
-
 Infrastructure engineer in Japan, focusing on Linux, AWS, cloud infrastructure, operations, and automation.
 
 ## 現在の関心領域
@@ -13,7 +11,6 @@ Infrastructure engineer in Japan, focusing on Linux, AWS, cloud infrastructure, 
 - AWS クラウドアーキテクチャ
 - インフラ運用改善・自動化
 - Next.js / TypeScript を使った個人開発
-- 留学・海外エンジニアを見据えた英語学習
 
 ## 制作物
 
