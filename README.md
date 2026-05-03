@@ -1,29 +1,32 @@
-# Hi, I'm Hiroki Takano 👋
+# Hiroki Takano 👋
 
-Infrastructure engineer in Japan, focusing on Linux, cloud infrastructure, operations, and automation.
+日本でインフラエンジニアとして働いています。  
+現在は Linux、AWS、クラウドインフラ、運用改善、自動化を中心に学習・実践しています。
 
-I am currently improving my English and cloud engineering skills with the goal of studying cloud architecture in Canada and working as an engineer in North America.
+将来的にはカナダで Cloud Architecture を学び、北米でエンジニアとして働くことを目標にしています。
 
-## Focus
+Infrastructure engineer in Japan, focusing on Linux, AWS, cloud infrastructure, operations, and automation.
 
-- Linux operations and troubleshooting
-- AWS cloud architecture
-- Infrastructure automation
-- Web application development with Next.js / TypeScript
-- English for study abroad and engineering communication
+## 現在の関心領域
 
-## Projects
+- Linux サーバ運用・トラブルシューティング
+- AWS クラウドアーキテクチャ
+- インフラ運用改善・自動化
+- Next.js / TypeScript を使った個人開発
+- 留学・海外エンジニアを見据えた英語学習
+
+## 制作物
 
 - [ThinkSpeed](https://github.com/HirokiTakano/ThinkSpeed)  
-  Lightweight outliner for fast idea capture and structured thinking.
+  箇条書きで思考を素早く書き出し、構造化するための軽量アウトライナーです。
 
 - [PCDetailCheck](https://github.com/HirokiTakano/PCDetailCheck)  
-  Windows utility for checking detailed PC information locally.
+  Windows PC の詳細情報をローカル環境で確認するためのツールです。
 
-- [Portfolio Site](https://main.d39h1h78ufdmo2.amplifyapp.com/)  
-  Personal portfolio and project showcase.
+- [ポートフォリオサイト](https://main.d39h1h78ufdmo2.amplifyapp.com/)  
+  制作物・スキル・学習内容をまとめた個人プロフィールサイトです。
 
-## Tech Stack
+## 技術スタック
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -32,9 +35,9 @@ I am currently improving my English and cloud engineering skills with the goal o
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
 
-## Certifications
+## 保有資格
 
-- IT Passport
+- ITパスポート
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
 
