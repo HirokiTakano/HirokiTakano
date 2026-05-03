@@ -23,9 +23,6 @@ Infrastructure engineer in Japan, focusing on Linux, AWS, cloud infrastructure, 
 - [PCDetailCheck](https://github.com/HirokiTakano/PCDetailCheck)  
   Windows PC の詳細情報をローカル環境で確認するためのツールです。
 
-- [ポートフォリオサイト](https://main.d39h1h78ufdmo2.amplifyapp.com/)  
-  制作物・スキル・学習内容をまとめた個人プロフィールサイトです。
-
 ## 技術スタック
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
@@ -35,11 +32,6 @@ Infrastructure engineer in Japan, focusing on Linux, AWS, cloud infrastructure, 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
 
-## 保有資格
-
-- ITパスポート
-- AWS Certified Cloud Practitioner
-- AWS Certified AI Practitioner
 
 ## Links
 
