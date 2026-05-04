@@ -10,7 +10,7 @@ Infrastructure engineer in Japan, focusing on Linux, AWS, cloud infrastructure, 
 - Linux サーバ運用・トラブルシューティング
 - AWS クラウドアーキテクチャ
 - インフラ運用改善・自動化
-- Next.js / TypeScript を使った個人開発
+- Codexを使った便利ツールの制作
 
 ## 制作物
 
